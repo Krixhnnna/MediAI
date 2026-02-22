@@ -51,11 +51,9 @@ The system follows a modular structure:
 
 ## 🛠 Technologies Used
 
-> *(Modify based on your stack)*
-
-- Programming Language: Python / JavaScript / etc.
-- Framework: Flask / Node.js / React / etc.
-- NLP Approach: Rule-based / Pattern Matching / etc.
+- Programming Language: JavaScript 
+- Framework: Node.js, Express.js, React.js
+- NLP Approach: Pattern Matching
 
 ---
 
