@@ -1,4 +1,4 @@
-# 🏥 Healthcare Chatbot
+# 🏥 Healthcare Chatbot.
 
 A university course project demonstrating the design and implementation of a basic healthcare-oriented conversational agent.
 
